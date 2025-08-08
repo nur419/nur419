@@ -2,7 +2,7 @@
 
 I'm MD NURNOBI SARKER, a passionate web developer with a knack for creating stunning and functional websites. I love transforming ideas into reality through code!
 
-# <img src = 'https://ibb.co/nsvV865Q' alt='picher'/>
+ ![logo] (https://ibb.co/nsvV865Q)
 ## About Me
 
 Based in Dhaka, Bangladesh, I currently work as a web developer at Extternall. I enjoy tackling challenges and continually enhancing my skills in web development.
