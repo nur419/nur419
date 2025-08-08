@@ -3,7 +3,7 @@
 I'm MD NURNOBI SARKER, a passionate web developer with a knack for creating stunning and functional websites. I love transforming ideas into reality through code!
 
 <p align="center">
-  <img src="https://i.ibb.co/nsvV865Q/Screenshot-2025-08-08-032111.png" alt="logo" width="1584"/>
+  <img src="https://i.ibb.co/nsvV865Q/Screenshot-2025-08-08-032111.png" alt="logo"  width="1584px"/>
 </p>
 
 ## About Me
