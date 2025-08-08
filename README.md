@@ -7,7 +7,6 @@ I'm MD NURNOBI SARKER, a passionate web developer with a knack for creating stun
 ## About Me
 
 Based in Dhaka, Bangladesh, I currently work as a web developer at Extternall. I enjoy tackling challenges and continually enhancing my skills in web development.
-
 ###
 
 <div align="center">
